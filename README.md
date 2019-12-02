@@ -1,2 +1,7 @@
 # genie-logiciel-g4
-le fichier test.py permis de convertir un fichier pdf donnee en parametre en fichier text dans le console
+
+
+parseur.py
+-La fonction Convert(): Pointer sur les fichiers pdf d'un dossier entrée comme un pramétre our faire la conversion. 
+-La fonction ConvertMultiple(): la fonction prend deux paramétres, le premier est le dossier des pdf, le deuxiéme est le dossier qui contient les fichiers text qui sont converter par la fonction Convert().
+ 
