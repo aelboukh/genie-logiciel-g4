@@ -8,7 +8,7 @@ parseur.py
  parse.bat
  
  
- Ce fichier crée un dossier sous le nom text1, ce dernier va contenir des fichiers txt qui ont créer par bach.bat. 
+ Ce fichier crée un dossier sous le nom text1, ce dernier va contenir des fichiers txt crées par parse.bat. 
  
  
--Chacun des fichiers pdf a sa conversion en fichier txt avec une détermination du nom de fichier et l'abstruct de l'auteur.
+-Chacun des fichiers pdf a sa conversion en fichier txt avec une détermination du nom de fichier et l'abstract de l'auteur.
