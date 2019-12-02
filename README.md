@@ -6,5 +6,9 @@ parseur.py
 -La fonction ConvertMultiple(): la fonction prend deux paramétres, le premier est le dossier des pdf, le deuxiéme est le dossier qui contient les fichiers text qui sont converter par la fonction Convert().
  
  parse.bat
+ 
+ 
  Ce fichier crée un dossier sous le nom text1, ce dernier va contenir des fichiers txt qui ont créer par bach.bat. 
+ 
+ 
 -Chacun des fichiers pdf a sa conversion en fichier txt avec une détermination du nom de fichier et l'abstruct de l'auteur.
