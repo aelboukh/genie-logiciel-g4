@@ -12,3 +12,6 @@ parseur.py
  
  
 -Chacun des fichiers pdf a sa conversion en fichier txt avec une détermination du nom de fichier et l'abstract de l'auteur.
+
+-Pour exécuter le programme, il faut exécuter le fichier parseur (dans un terminal : python parseur.py).
+
