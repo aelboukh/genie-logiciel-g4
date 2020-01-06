@@ -9,13 +9,12 @@ Dans cette version  on réaliser un fichier choix.bat
 -Ce fichier permet de de faire le choix de convertation (XML ou TXT). Aprés la convertation ce fichier créer un dossier text1 pour les fichiers TXT qui sont convertés et un autre dossier textXml pour les fichiers XML qui sont convertés.
 comment utiliser
 
-red_circle IMPORTANT ! : il faut déplacer vos fichiers pdfs dans le dossier Papers red_circle
 
 Etape 1
 
 -pour consulter les fichiers pdf et les indices dans votre dossier Papers executez la commande
 
-    ./convert1.bat
+    ./convert.bat
 
 
 pour convertir la forme de coverte(txt ou XML)
